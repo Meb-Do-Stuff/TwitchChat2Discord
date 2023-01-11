@@ -26,7 +26,3 @@ You have to create a Twitch account for you bot
 ###### 14: The name of your bot (like in the twitch page url of your bot)
 ###### [15: Put your twitch bot token](https://twitchapps.com/tmi/)
 ###### 16: The channel you want to read
-
-
-
-### Thanks to [DarkMatter](https://www.twitch.tv/darkmatterh1), to let me use his chat to make my things. [His discord](https://discord.gg/edMq4uWeGU)
